@@ -1,4 +1,3 @@
-# This is the temporary software repository after anonymization processing.
 # The replication toolkit for the paper "Lightweight Noisy Labels Prediction Towards to Noise Distribution Characteristics"
 
 ## Titile: Lightweight Noisy Labels Prediction Towards to Noise Distribution Characteristics
@@ -7,11 +6,11 @@ Our work aim to analyze the characteristics of real noisy labels introduced by t
 
 ## Quick Start
 
-### (1) [`/DataSets/`](https://github.com/sticeran/NoiseDetection/tree/master/DataSets/) In this folder, the 6M-SZZ-2020 data set is the noisy data set (i.e., defect labels as labels containing noise) open-sourced from the literature [2].The IND-JLMIV+R-2020 data set is the clean data set (i.e., defect labels as the ground truth) open-sourced from the literature [2]. Please refer to the [`/DataSets/README.md`](https://github.com/sticeran/NoiseDetection/tree/master/DataSets/README.md) for details.
+### (1) [`/DataSets/`](https://github.com/sticeran/NoiseDetection/tree/main/DataSets/) In this folder, the 6M-SZZ-2020 data set is the noisy data set (i.e., defect labels as labels containing noise) open-sourced from the literature [2].The IND-JLMIV+R-2020 data set is the clean data set (i.e., defect labels as the ground truth) open-sourced from the literature [2]. Please refer to the [`/DataSets/README.md`](https://github.com/sticeran/NoiseDetection/tree/main/DataSets/README.md) for details.
 
-### (2) [`/Metric extractor/`](https://github.com/sticeran/NoiseDetection/tree/master/Metric_extractor/) In this folder, the folder Metric extractor holds the feature collection scripts we implemented. Please refer to the [`/Metric extractor/README.md`](https://github.com/sticeran/SnoringNoise/tree/master/Metric_extractor/README.md) for details.
+### (2) [`/Metric extractor/`](https://github.com/sticeran/NoiseDetection/tree/main/Metric_extractor/) In this folder, the folder Metric extractor holds the feature collection scripts we implemented. Please refer to the [`/Metric extractor/README.md`](https://github.com/sticeran/SnoringNoise/tree/main/Metric_extractor/README.md) for details.
 
-### (3) [`/NoiseDetectionProgram/`](https://github.com/sticeran/NoiseDetection/tree/master/NoiseDetectionProgram/) This folder holds the experimental programs for reproducing the experimental results in RQ1, RQ2 and RQ3. Please refer to the [`/NoiseDetectionProgram/README.md`](https://github.com/sticeran/NoiseDetection/tree/master/NoiseDetectionProgram/README.md) for details.
+### (3) [`/NoiseDetectionProgram/`](https://github.com/sticeran/NoiseDetection/tree/main/NoiseDetectionProgram/) This folder holds the experimental programs for reproducing the experimental results in RQ1, RQ2 and RQ3. Please refer to the [`/NoiseDetectionProgram/README.md`](https://github.com/sticeran/NoiseDetection/tree/main/NoiseDetectionProgram/README.md) for details.
  
 
 If you use the data sets (data sets after filtering inconsistent labels on the original 6M-SZZ-2020 and IND-JLMIV+R-2020 multi-version defect data sets [2]) or the program code, please cite our paper "", thanks.
