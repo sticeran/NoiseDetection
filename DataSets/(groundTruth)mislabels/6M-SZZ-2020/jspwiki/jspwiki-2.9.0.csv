@@ -1,0 +1,9 @@
+relName,bug,index
+src/com/ecyrd/jspwiki/WikiEngine.java,0,21
+src/com/ecyrd/jspwiki/auth/UserManager.java,1,40
+src/com/ecyrd/jspwiki/auth/user/JDBCUserDatabase.java,1,80
+src/com/ecyrd/jspwiki/auth/user/XMLUserDatabase.java,1,83
+src/com/ecyrd/jspwiki/event/WikiPageRenameEvent.java,0,120
+src/com/ecyrd/jspwiki/providers/VersioningFileProvider.java,0,205
+src/com/ecyrd/jspwiki/search/LuceneSearchProvider.java,0,227
+src/com/ecyrd/jspwiki/util/UtilJ2eeCompat.java,1,343

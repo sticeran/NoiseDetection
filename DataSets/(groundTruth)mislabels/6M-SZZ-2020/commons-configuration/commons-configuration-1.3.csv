@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/BaseConfiguration.java,1,3
+src/java/org/apache/commons/configuration/CompositeConfiguration.java,0,6
+src/java/org/apache/commons/configuration/PropertiesConfiguration.java,0,29
+src/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java,0,30
+src/java/org/apache/commons/configuration/SubnodeConfiguration.java,0,33
+src/java/org/apache/commons/configuration/event/EventSource.java,1,47
+src/java/org/apache/commons/configuration/reloading/FileChangedReloadingStrategy.java,0,57
+src/java/org/apache/commons/configuration/web/BaseWebConfiguration.java,1,79

@@ -1,0 +1,10 @@
+relName,bug,index
+connectors/cmis/connector/src/main/java/org/apache/manifoldcf/agents/output/cmisoutput/CmisOutputConnector.java,1,193
+connectors/elasticsearch/connector/src/main/java/org/apache/manifoldcf/agents/output/elasticsearch/ElasticSearchIndex.java,0,202
+connectors/documentum/implementation/src/main/java/org/apache/manifoldcf/crawler/common/DCTM/DocumentumImpl.java,1,635
+connectors/confluence/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/confluence/ConfluenceRepositoryConnector.java,0,687
+connectors/confluence/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/confluence/client/ConfluenceClient.java,0,689
+connectors/webcrawler/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/webcrawler/WebcrawlerConfig.java,1,825
+connectors/webcrawler/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/webcrawler/WebcrawlerConnector.java,1,826
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/HopDeleteDeps.java,0,895
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/JobManager.java,0,899

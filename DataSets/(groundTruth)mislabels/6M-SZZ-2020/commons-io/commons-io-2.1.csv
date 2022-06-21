@@ -1,0 +1,6 @@
+relName,bug,index
+src/java/org/apache/commons/io/FileSystemUtils.java,0,8
+src/java/org/apache/commons/io/IOUtils.java,1,14
+src/java/org/apache/commons/io/input/BoundedInputStream.java,1,55
+src/java/org/apache/commons/io/input/ReaderInputStream.java,1,67
+src/java/org/apache/commons/io/input/XmlStreamReader.java,0,74

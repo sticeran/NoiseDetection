@@ -1,0 +1,13 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/CompositeConfiguration.java,0,6
+src/java/org/apache/commons/configuration/ConfigurationUtils.java,0,16
+src/java/org/apache/commons/configuration/DynamicCombinedConfiguration.java,1,22
+src/java/org/apache/commons/configuration/MapConfiguration.java,0,36
+src/java/org/apache/commons/configuration/MultiFileHierarchicalConfiguration.java,1,37
+src/java/org/apache/commons/configuration/PatternSubtreeConfigurationWrapper.java,1,38
+src/java/org/apache/commons/configuration/PropertiesConfiguration.java,0,40
+src/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java,0,41
+src/java/org/apache/commons/configuration/SubnodeConfiguration.java,1,44
+src/java/org/apache/commons/configuration/beanutils/BeanHelper.java,0,53
+src/java/org/apache/commons/configuration/interpol/ExprLookup.java,0,65
+src/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java,0,67

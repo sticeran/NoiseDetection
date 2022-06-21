@@ -1,0 +1,13 @@
+relName,bug,index
+src/java/org/apache/commons/collections/CollectionUtils.java,0,8
+src/java/org/apache/commons/collections/IteratorUtils.java,0,19
+src/java/org/apache/commons/collections/ListUtils.java,0,21
+src/java/org/apache/commons/collections/comparators/FixedOrderComparator.java,0,81
+src/java/org/apache/commons/collections/comparators/TransformingComparator.java,0,84
+src/java/org/apache/commons/collections/keyvalue/MultiKey.java,0,184
+src/java/org/apache/commons/collections/list/SetUniqueList.java,0,196
+src/java/org/apache/commons/collections/list/TreeList.java,0,198
+src/java/org/apache/commons/collections/map/MultiKeyMap.java,0,220
+src/java/org/apache/commons/collections/map/MultiValueMap.java,0,221
+src/java/org/apache/commons/collections/set/ListOrderedSet.java,0,252
+src/java/org/apache/commons/collections/trie/AbstractPatriciaTrie.java,0,263

@@ -1,0 +1,11 @@
+relName,bug,index
+src/java/org/apache/commons/net/SocketClient.java,0,17
+src/java/org/apache/commons/net/io/FromNetASCIIInputStream.java,0,58
+src/java/org/apache/commons/net/nntp/NNTPClient.java,0,67
+src/java/org/apache/commons/net/nntp/NNTPReply.java,0,70
+src/java/org/apache/commons/net/pop3/POP3Client.java,0,73
+src/java/org/apache/commons/net/telnet/Telnet.java,0,87
+src/java/org/apache/commons/net/telnet/TelnetClient.java,0,88
+src/java/org/apache/commons/net/telnet/TelnetInputStream.java,0,90
+src/java/org/apache/commons/net/telnet/TelnetOutputStream.java,0,94
+src/java/org/apache/commons/net/tftp/TFTPClient.java,0,98

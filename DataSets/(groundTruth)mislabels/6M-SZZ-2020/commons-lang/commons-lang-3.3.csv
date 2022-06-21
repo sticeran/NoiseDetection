@@ -1,0 +1,16 @@
+relName,bug,index
+src/java/org/apache/commons/lang/ArrayUtils.java,0,1
+src/java/org/apache/commons/lang/ClassUtils.java,0,11
+src/java/org/apache/commons/lang/LocaleUtils.java,0,15
+src/java/org/apache/commons/lang/RandomStringUtils.java,0,18
+src/java/org/apache/commons/lang/StringUtils.java,0,24
+src/java/org/apache/commons/lang/SystemUtils.java,0,25
+src/java/org/apache/commons/lang/builder/EqualsBuilder.java,0,33
+src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java,0,37
+src/java/org/apache/commons/lang/math/IEEE754rUtils.java,1,63
+src/java/org/apache/commons/lang/reflect/TypeUtils.java,0,80
+src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java,0,83
+src/java/org/apache/commons/lang/text/StrLookup.java,0,87
+src/java/org/apache/commons/lang/time/DateFormatUtils.java,0,104
+src/java/org/apache/commons/lang/time/FastDateParser.java,0,109
+src/java/org/apache/commons/lang/time/FastDatePrinter.java,0,110

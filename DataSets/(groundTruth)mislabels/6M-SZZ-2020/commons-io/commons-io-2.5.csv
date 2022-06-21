@@ -1,0 +1,5 @@
+relName,bug,index
+src/java/org/apache/commons/io/ByteOrderMark.java,0,0
+src/java/org/apache/commons/io/FileUtils.java,1,10
+src/java/org/apache/commons/io/input/XmlStreamReader.java,0,81
+src/java/org/apache/commons/io/output/XmlStreamWriter.java,0,109

@@ -1,0 +1,17 @@
+relName,bug,index
+src/java/org/apache/ivy/ant/IvyDependencyUpdateChecker.java,0,30
+src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java,0,62
+src/java/org/apache/ivy/core/cache/DefaultResolutionCacheManager.java,0,63
+src/java/org/apache/ivy/core/pack/PackagingManager.java,0,143
+src/java/org/apache/ivy/core/resolve/IvyNode.java,1,159
+src/java/org/apache/ivy/core/resolve/ResolveEngine.java,0,165
+src/java/org/apache/ivy/core/retrieve/RetrieveEngine.java,0,174
+src/java/org/apache/ivy/core/settings/XmlSettingsParser.java,0,187
+src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorBuilder.java,0,326
+src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java,0,327
+src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorWriter.java,0,328
+src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser.java,0,332
+src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java,0,333
+src/java/org/apache/ivy/plugins/resolver/AbstractResolver.java,0,372
+src/java/org/apache/ivy/plugins/version/LatestVersionMatcher.java,0,411
+src/java/org/apache/ivy/util/FileUtil.java,0,437

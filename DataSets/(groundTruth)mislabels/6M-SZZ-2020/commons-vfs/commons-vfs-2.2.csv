@@ -1,0 +1,8 @@
+relName,bug,index
+core/src/main/java/org/apache/commons/vfs/AllFileSelector.java,1,0
+core/src/main/java/org/apache/commons/vfs/FileDepthSelector.java,1,7
+core/src/main/java/org/apache/commons/vfs/FileExtensionSelector.java,1,8
+core/src/main/java/org/apache/commons/vfs/FileFilterSelector.java,1,10
+core/src/main/java/org/apache/commons/vfs/FileTypeSelector.java,1,26
+core/src/main/java/org/apache/commons/vfs/PatternFileSelector.java,1,31
+core/src/main/java/org/apache/commons/vfs/provider/AbstractFileObject.java,0,94

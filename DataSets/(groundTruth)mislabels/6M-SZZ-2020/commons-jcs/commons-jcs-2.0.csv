@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/jcs/auxiliary/remote/AbstractRemoteCacheNoWaitFacade.java,0,104
+src/java/org/apache/jcs/auxiliary/remote/RemoteCacheFactory.java,0,108
+src/java/org/apache/jcs/auxiliary/remote/server/RemoteCacheServer.java,0,138
+src/java/org/apache/jcs/auxiliary/remote/server/RemoteCacheServerFactory.java,0,140
+src/java/org/apache/jcs/auxiliary/remote/server/RemoteCacheStartupServlet.java,0,141
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingManager.java,0,231
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheInvocationContextImpl.java,0,244
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/proxy/ClassLoaderAwareCache.java,1,281

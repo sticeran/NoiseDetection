@@ -1,0 +1,4 @@
+relName,bug,index
+archiva-modules/plugins/maven2-repository/src/main/java/org/apache/archiva/metadata/repository/storage/maven2/Maven2RepositoryStorage.java,0,189
+archiva-modules/archiva-web/archiva-rest/archiva-rest-services/src/main/java/org/apache/archiva/rest/services/DefaultRemoteRepositoriesService.java,0,323
+archiva-modules/archiva-web/archiva-webdav/src/main/java/org/apache/archiva/webdav/ArchivaDavResourceFactory.java,0,397

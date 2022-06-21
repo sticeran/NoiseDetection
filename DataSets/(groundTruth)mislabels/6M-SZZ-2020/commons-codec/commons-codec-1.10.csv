@@ -1,0 +1,4 @@
+relName,bug,index
+src/java/org/apache/commons/codec/binary/Base32.java,0,11
+src/java/org/apache/commons/codec/binary/StringUtils.java,0,23
+src/java/org/apache/commons/codec/language/Soundex.java,0,44

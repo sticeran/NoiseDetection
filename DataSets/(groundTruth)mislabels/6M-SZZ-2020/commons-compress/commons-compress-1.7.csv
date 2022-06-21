@@ -1,0 +1,15 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java,1,10
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java,0,14
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java,0,15
+src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZMethod.java,1,42
+src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java,1,43
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java,0,47
+src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java,0,70
+src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.java,0,71
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java,0,75
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java,1,77
+src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java,0,83
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java,0,97
+src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.java,0,115
+src/main/java/org/apache/commons/compress/compressors/z/ZCompressorInputStream.java,1,121

@@ -1,0 +1,11 @@
+relName,bug,index
+gora-core/src/main/java/org/apache/gora/avro/PersistentDatumReader.java,0,0
+gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java,0,31
+gora-hbase/src/main/java/org/apache/gora/hbase/util/HBaseByteInterface.java,0,32
+gora-core/src/main/java/org/apache/gora/mapreduce/GoraRecordReader.java,0,40
+gora-core/src/main/java/org/apache/gora/mapreduce/PersistentDeserializer.java,0,44
+gora-core/src/main/java/org/apache/gora/memory/store/MemStore.java,0,50
+gora-core/src/main/java/org/apache/gora/persistency/ListGenericArray.java,0,52
+gora-core/src/main/java/org/apache/gora/persistency/StatefulHashMap.java,0,56
+gora-core/src/main/java/org/apache/gora/persistency/impl/PersistentBase.java,0,59
+gora-core/src/main/java/org/apache/gora/util/IOUtils.java,0,91

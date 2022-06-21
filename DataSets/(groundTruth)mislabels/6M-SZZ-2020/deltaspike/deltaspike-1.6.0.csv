@@ -1,0 +1,11 @@
+relName,bug,index
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/message/MessageBundleInvocationHandler.java,0,163
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/ClassUtils.java,1,220
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/metadata/builder/AnnotatedConstructorImpl.java,0,247
+deltaspike/modules/data/api/src/main/java/org/apache/deltaspike/data/api/Query.java,1,276
+deltaspike/modules/data/impl/src/main/java/org/apache/deltaspike/data/impl/builder/DelegateQueryBuilder.java,1,302
+deltaspike/modules/data/impl/src/main/java/org/apache/deltaspike/data/impl/builder/part/OrderByQueryPart.java,0,315
+deltaspike/modules/data/impl/src/main/java/org/apache/deltaspike/data/impl/criteria/QueryCriteria.java,0,329
+deltaspike/modules/jpa/impl/src/main/java/org/apache/deltaspike/jpa/impl/entitymanager/DefaultEntityManagerHolder.java,1,448
+deltaspike/modules/jsf/impl/src/main/java/org/apache/deltaspike/jsf/impl/listener/request/DeltaSpikeLifecycleWrapper.java,1,539
+deltaspike/modules/security/impl/src/main/java/org/apache/deltaspike/security/impl/authorization/SecuredAnnotationAuthorizer.java,0,634

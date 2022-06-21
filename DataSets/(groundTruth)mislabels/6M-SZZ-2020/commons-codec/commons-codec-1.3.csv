@@ -1,0 +1,4 @@
+relName,bug,index
+src/java/org/apache/commons/codec/binary/Base64.java,0,9
+src/java/org/apache/commons/codec/language/DoubleMetaphone.java,0,13
+src/java/org/apache/commons/codec/language/RefinedSoundex.java,0,15

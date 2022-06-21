@@ -1,0 +1,12 @@
+relName,bug,index
+src/java/org/apache/nutch/crawl/GeneratorMapper.java,0,27
+src/java/org/apache/nutch/host/HostInjectorJob.java,0,45
+src/plugin/index-more/src/java/org/apache/nutch/indexer/more/MoreIndexingFilter.java,1,63
+src/java/org/apache/nutch/parse/ParseUtil.java,0,106
+src/java/org/apache/nutch/plugin/Extension.java,0,128
+src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file/File.java,1,149
+src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Ftp.java,0,154
+src/plugin/protocol-http/src/java/org/apache/nutch/protocol/http/HttpResponse.java,0,165
+src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/Http.java,0,172
+src/java/org/apache/nutch/util/StringUtil.java,1,230
+src/java/org/apache/nutch/util/domain/DomainStatistics.java,0,238

@@ -1,0 +1,12 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/AbstractConfiguration.java,1,0
+src/java/org/apache/commons/configuration/CompositeConfiguration.java,0,6
+src/java/org/apache/commons/configuration/ConfigurationUtils.java,0,16
+src/java/org/apache/commons/configuration/HierarchicalConfiguration.java,0,25
+src/java/org/apache/commons/configuration/MultiFileHierarchicalConfiguration.java,1,33
+src/java/org/apache/commons/configuration/PropertiesConfiguration.java,0,35
+src/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java,0,36
+src/java/org/apache/commons/configuration/PropertyConverter.java,0,37
+src/java/org/apache/commons/configuration/SubnodeConfiguration.java,1,39
+src/java/org/apache/commons/configuration/SubsetConfiguration.java,1,40
+src/java/org/apache/commons/configuration/interpol/ConfigurationInterpolator.java,1,56

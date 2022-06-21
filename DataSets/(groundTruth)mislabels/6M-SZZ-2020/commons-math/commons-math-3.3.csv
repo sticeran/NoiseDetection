@@ -1,0 +1,17 @@
+relName,bug,index
+src/main/java/org/apache/commons/math/analysis/polynomials/PolynomialsUtils.java,0,113
+src/main/java/org/apache/commons/math/analysis/solvers/UnivariateSolverUtils.java,0,140
+src/main/java/org/apache/commons/math/dfp/Dfp.java,0,148
+src/main/java/org/apache/commons/math/distribution/BinomialDistribution.java,1,157
+src/main/java/org/apache/commons/math/distribution/NormalDistribution.java,0,176
+src/main/java/org/apache/commons/math/distribution/UniformIntegerDistribution.java,1,184
+src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java,1,221
+src/main/java/org/apache/commons/math/fitting/leastsquares/LeastSquaresFactory.java,1,242
+src/main/java/org/apache/commons/math/geometry/euclidean/threed/PolyhedronsSet.java,0,307
+src/main/java/org/apache/commons/math/geometry/euclidean/twod/hull/ConvexHull2D.java,0,328
+src/main/java/org/apache/commons/math/geometry/euclidean/twod/hull/MonotoneChain.java,0,330
+src/main/java/org/apache/commons/math/ml/clustering/FuzzyKMeansClusterer.java,0,438
+src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java,1,517
+src/main/java/org/apache/commons/math/stat/inference/KolmogorovSmirnovTest.java,0,758
+src/main/java/org/apache/commons/math/stat/inference/MannWhitneyUTest.java,0,759
+src/main/java/org/apache/commons/math/util/MathArrays.java,0,812

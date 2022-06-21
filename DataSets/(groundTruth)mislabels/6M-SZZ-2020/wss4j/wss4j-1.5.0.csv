@@ -1,0 +1,11 @@
+relName,bug,index
+src/org/apache/ws/security/WSUsernameTokenPrincipal.java,0,138
+src/org/apache/ws/security/handler/WSS4JHandler.java,0,164
+src/org/apache/ws/security/message/EnvelopeIdResolver.java,0,165
+src/org/apache/ws/security/message/token/Reference.java,0,189
+src/org/apache/ws/security/message/token/SecurityTokenReference.java,0,191
+src/org/apache/ws/security/message/token/UsernameToken.java,0,194
+src/org/apache/ws/security/policy/Constants.java,0,196
+src/org/apache/ws/security/processor/SignatureProcessor.java,0,257
+src/org/apache/ws/security/saml/SAMLIssuerFactory.java,0,262
+src/org/apache/ws/security/util/UUIDGenerator.java,0,274

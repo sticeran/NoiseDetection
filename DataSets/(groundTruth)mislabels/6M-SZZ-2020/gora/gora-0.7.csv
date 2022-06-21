@@ -1,0 +1,3 @@
+relName,bug,index
+gora-hbase/src/main/java/org/apache/gora/hbase/store/HBaseStore.java,1,78
+gora-solr-5/src/main/java/org/apache/gora/solr/store/SolrStore.java,1,161

@@ -1,0 +1,6 @@
+relName,bug,index
+src/java/org/apache/commons/codec/binary/Base32.java,0,10
+src/java/org/apache/commons/codec/binary/BaseNCodecInputStream.java,0,17
+src/java/org/apache/commons/codec/language/bm/BeiderMorseEncoder.java,0,33
+src/java/org/apache/commons/codec/language/bm/PhoneticEngine.java,0,37
+src/java/org/apache/commons/codec/net/QuotedPrintableCodec.java,1,43

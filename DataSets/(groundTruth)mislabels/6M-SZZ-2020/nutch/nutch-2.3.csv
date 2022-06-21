@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/nutch/api/impl/NutchServerPoolExecutor.java,0,7
+src/java/org/apache/nutch/crawl/DbUpdateReducer.java,0,35
+src/java/org/apache/nutch/crawl/GeneratorReducer.java,0,42
+src/java/org/apache/nutch/host/HostInjectorJob.java,0,62
+src/java/org/apache/nutch/indexer/IndexingJob.java,0,74
+src/plugin/parse-tika/src/java/org/apache/nutch/parse/tika/TikaConfig.java,1,146
+src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Ftp.java,0,178

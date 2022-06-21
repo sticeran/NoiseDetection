@@ -1,0 +1,5 @@
+relName,bug,index
+src/java/org/apache/commons/codec/binary/Base32.java,0,11
+src/java/org/apache/commons/codec/binary/Base64.java,1,14
+src/java/org/apache/commons/codec/binary/StringUtils.java,0,22
+src/java/org/apache/commons/codec/language/DoubleMetaphone.java,0,35

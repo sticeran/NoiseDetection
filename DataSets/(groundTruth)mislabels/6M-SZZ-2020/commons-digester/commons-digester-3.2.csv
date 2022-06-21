@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/commons/digester/ObjectCreateRule.java,1,10
+src/java/org/apache/commons/digester/annotations/rules/BeanPropertySetter.java,0,53
+src/java/org/apache/commons/digester/annotations/rules/CallMethod.java,0,54
+src/java/org/apache/commons/digester/annotations/rules/CallParam.java,0,55
+src/java/org/apache/commons/digester/annotations/rules/PathCallParam.java,0,59
+src/java/org/apache/commons/digester/annotations/rules/SetProperty.java,0,61
+src/java/org/apache/commons/digester/annotations/rules/SetTop.java,0,63
+src/java/org/apache/commons/digester/binder/BinderClassLoader.java,0,70

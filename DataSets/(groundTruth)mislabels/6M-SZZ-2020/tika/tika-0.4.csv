@@ -1,0 +1,16 @@
+relName,bug,index
+tika-app/src/main/java/org/apache/tika/cli/TikaCLI.java,1,0
+tika-core/src/main/java/org/apache/tika/mime/MediaType.java,0,35
+tika-core/src/main/java/org/apache/tika/mime/MimeType.java,0,37
+tika-core/src/main/java/org/apache/tika/mime/MimeTypes.java,0,39
+tika-core/src/main/java/org/apache/tika/parser/AutoDetectParser.java,1,45
+tika-parsers/src/main/java/org/apache/tika/parser/html/XHTMLDowngradeHandler.java,0,60
+tika-parsers/src/main/java/org/apache/tika/parser/image/ImageParser.java,1,61
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/OfficeParser.java,1,67
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/OutlookExtractor.java,0,68
+tika-parsers/src/main/java/org/apache/tika/parser/opendocument/OpenOfficeContentParser.java,1,81
+tika-parsers/src/main/java/org/apache/tika/parser/pdf/PDF2XHTML.java,0,84
+tika-parsers/src/main/java/org/apache/tika/parser/rtf/RTFParser.java,1,93
+tika-parsers/src/main/java/org/apache/tika/parser/txt/TXTParser.java,1,102
+tika-parsers/src/main/java/org/apache/tika/parser/xml/XMLParser.java,1,105
+tika-core/src/main/java/org/apache/tika/sax/xpath/MatchingContentHandler.java,0,123

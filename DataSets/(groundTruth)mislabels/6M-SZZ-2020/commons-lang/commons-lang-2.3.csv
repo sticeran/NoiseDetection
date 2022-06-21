@@ -1,0 +1,16 @@
+relName,bug,index
+src/java/org/apache/commons/lang/Entities.java,0,9
+src/java/org/apache/commons/lang/enum/Enum.java,0,10
+src/java/org/apache/commons/lang/LocaleUtils.java,0,15
+src/java/org/apache/commons/lang/ObjectUtils.java,0,20
+src/java/org/apache/commons/lang/RandomStringUtils.java,0,21
+src/java/org/apache/commons/lang/StringUtils.java,0,25
+src/java/org/apache/commons/lang/builder/CompareToBuilder.java,0,31
+src/java/org/apache/commons/lang/builder/EqualsBuilder.java,0,32
+src/java/org/apache/commons/lang/builder/HashCodeBuilder.java,0,33
+src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java,0,34
+src/java/org/apache/commons/lang/enums/Enum.java,0,38
+src/java/org/apache/commons/lang/math/JVMRandom.java,0,51
+src/java/org/apache/commons/lang/math/NumberUtils.java,0,54
+src/java/org/apache/commons/lang/time/DateFormatUtils.java,0,72
+src/java/org/apache/commons/lang/time/FastDateFormat.java,0,75

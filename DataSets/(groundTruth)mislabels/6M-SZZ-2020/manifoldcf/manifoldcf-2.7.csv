@@ -1,0 +1,12 @@
+relName,bug,index
+connectors/elasticsearch/connector/src/main/java/org/apache/manifoldcf/agents/output/elasticsearch/ElasticSearchIndex.java,0,196
+connectors/documentum/interface/src/main/java/org/apache/manifoldcf/crawler/common/DCTM/DocumentumException.java,1,609
+connectors/documentum/implementation/src/main/java/org/apache/manifoldcf/crawler/common/DCTM/DocumentumImpl.java,1,611
+connectors/documentum/implementation/src/main/java/org/apache/manifoldcf/crawler/common/DCTM/DocumentumObjectImpl.java,1,612
+connectors/confluence/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/confluence/ConfluenceRepositoryConnector.java,0,663
+connectors/email/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/email/EmailConfig.java,1,685
+connectors/filesystem/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/filesystem/FileConnector.java,1,692
+connectors/googledrive/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/googledrive/GoogleDriveRepositoryConnector.java,0,705
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/HopDeleteDeps.java,0,861
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/JobManager.java,0,865
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/JobQueue.java,0,866

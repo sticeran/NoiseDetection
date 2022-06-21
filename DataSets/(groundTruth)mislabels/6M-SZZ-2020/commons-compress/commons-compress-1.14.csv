@@ -1,0 +1,14 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java,0,12
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java,1,18
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java,1,19
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioConstants.java,1,20
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java,1,58
+src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java,1,74
+src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java,0,93
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java,0,104
+src/main/java/org/apache/commons/compress/archivers/zip/ZipConstants.java,1,106
+src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.java,1,109
+src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java,1,123
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java,0,128
+src/main/java/org/apache/commons/compress/utils/ChecksumCalculatingInputStream.java,1,182

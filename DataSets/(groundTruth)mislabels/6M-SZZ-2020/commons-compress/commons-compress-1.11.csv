@@ -1,0 +1,14 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java,0,55
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java,0,56
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java,0,60
+src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java,0,89
+src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java,0,91
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java,0,96
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java,0,99
+src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java,0,107
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java,0,120
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java,0,121
+src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.java,0,144
+src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java,0,146
+src/main/java/org/apache/commons/compress/utils/BitInputStream.java,0,156

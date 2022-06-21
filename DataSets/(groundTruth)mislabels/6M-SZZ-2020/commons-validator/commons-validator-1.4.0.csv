@@ -1,0 +1,7 @@
+relName,bug,index
+src/share/org/apache/commons/validator/routines/DomainValidator.java,0,31
+src/share/org/apache/commons/validator/routines/EmailValidator.java,0,33
+src/share/org/apache/commons/validator/routines/UrlValidator.java,0,43
+src/share/org/apache/commons/validator/routines/checkdigit/CUSIPCheckDigit.java,0,45
+src/share/org/apache/commons/validator/routines/checkdigit/SedolCheckDigit.java,0,55
+src/share/org/apache/commons/validator/util/Flags.java,0,57

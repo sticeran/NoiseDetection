@@ -1,0 +1,10 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/ConfigurationUtils.java,0,16
+src/java/org/apache/commons/configuration/DatabaseConfiguration.java,0,20
+src/java/org/apache/commons/configuration/HierarchicalConfiguration.java,0,29
+src/java/org/apache/commons/configuration/HierarchicalINIConfiguration.java,1,32
+src/java/org/apache/commons/configuration/PropertiesConfiguration.java,0,41
+src/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java,0,42
+src/java/org/apache/commons/configuration/beanutils/BeanHelper.java,0,54
+src/java/org/apache/commons/configuration/interpol/ExprLookup.java,0,67
+src/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java,0,76

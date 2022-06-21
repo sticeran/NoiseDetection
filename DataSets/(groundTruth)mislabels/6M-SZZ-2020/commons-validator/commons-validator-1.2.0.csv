@@ -1,0 +1,8 @@
+relName,bug,index
+src/share/org/apache/commons/validator/EmailValidator.java,0,3
+src/share/org/apache/commons/validator/Field.java,0,4
+src/share/org/apache/commons/validator/GenericTypeValidator.java,0,8
+src/share/org/apache/commons/validator/UrlValidator.java,0,12
+src/share/org/apache/commons/validator/Validator.java,0,13
+src/share/org/apache/commons/validator/ValidatorResources.java,0,16
+src/share/org/apache/commons/validator/util/Flags.java,0,20

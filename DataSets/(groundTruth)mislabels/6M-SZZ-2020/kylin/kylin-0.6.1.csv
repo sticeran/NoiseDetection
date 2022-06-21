@@ -1,0 +1,12 @@
+relName,bug,index
+core-common/src/main/java/org/apache/kylin/common/persistence/ResourceStore.java,0,8
+core-dictionary/src/main/java/org/apache/kylin/dict/DictionaryManager.java,0,104
+core-job/src/main/java/org/apache/kylin/job/JobDAO.java,0,123
+core-job/src/main/java/org/apache/kylin/job/JoinedFlatTable.java,0,128
+core-job/src/main/java/org/apache/kylin/job/hadoop/AbstractHadoopJob.java,0,155
+core-metadata/src/main/java/org/apache/kylin/metadata/model/cube/CubePartitionDesc.java,0,215
+server/src/main/java/org/apache/kylin/rest/request/SQLRequest.java,0,307
+server/src/main/java/org/apache/kylin/rest/service/AccessService.java,0,328
+server/src/main/java/org/apache/kylin/rest/service/QueryService.java,0,335
+core-storage/src/main/java/org/apache/kylin/storage/StorageContext.java,0,340
+core-storage/src/main/java/org/apache/kylin/storage/filter/CompareTupleFilter.java,0,344

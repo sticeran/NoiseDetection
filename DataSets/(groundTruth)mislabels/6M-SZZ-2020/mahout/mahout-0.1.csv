@@ -1,0 +1,9 @@
+relName,bug,index
+core/src/main/java/org/apache/mahout/cf/taste/impl/common/WeightedRunningAverage.java,0,42
+taste-web/src/main/java/org/apache/mahout/cf/taste/web/RecommenderServlet.java,0,128
+core/src/main/java/org/apache/mahout/clustering/kmeans/Cluster.java,1,203
+core/src/main/java/org/apache/mahout/ga/watchmaker/MahoutEvaluator.java,1,221
+core/src/main/java/org/apache/mahout/matrix/AbstractVector.java,1,227
+core/src/main/java/org/apache/mahout/matrix/DenseVector.java,1,231
+core/src/main/java/org/apache/mahout/matrix/SparseMatrix.java,0,238
+core/src/main/java/org/apache/mahout/matrix/SparseVector.java,1,240

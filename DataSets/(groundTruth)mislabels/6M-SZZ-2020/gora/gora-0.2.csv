@@ -1,0 +1,9 @@
+relName,bug,index
+gora-accumulo/src/main/java/org/apache/gora/accumulo/store/AccumuloStore.java,1,8
+gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraClient.java,1,25
+gora-cassandra/src/main/java/org/apache/gora/cassandra/store/CassandraMapping.java,1,26
+gora-core/src/main/java/org/apache/gora/compiler/GoraCompiler.java,0,28
+gora-core/src/main/java/org/apache/gora/mapreduce/PersistentDeserializer.java,0,49
+gora-core/src/main/java/org/apache/gora/memory/store/MemStore.java,0,55
+gora-core/src/main/java/org/apache/gora/persistency/ListGenericArray.java,0,57
+gora-core/src/main/java/org/apache/gora/util/IOUtils.java,0,97

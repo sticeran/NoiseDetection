@@ -1,0 +1,12 @@
+relName,bug,index
+src/java/org/apache/commons/dbcp/BasicDataSource.java,0,3
+src/java/org/apache/commons/dbcp/DelegatingConnection.java,0,9
+src/java/org/apache/commons/dbcp/DelegatingDatabaseMetaData.java,0,10
+src/java/org/apache/commons/dbcp/DelegatingResultSet.java,0,12
+src/java/org/apache/commons/dbcp/DelegatingStatement.java,0,13
+src/java/org/apache/commons/dbcp/PoolableConnection.java,0,17
+src/java/org/apache/commons/dbcp/PoolablePreparedStatement.java,0,19
+src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java,0,30
+src/java/org/apache/commons/dbcp/managed/LocalXAConnectionFactory.java,0,42
+src/java/org/apache/commons/dbcp/managed/ManagedConnection.java,0,43
+src/java/org/apache/commons/dbcp/managed/TransactionContext.java,0,47

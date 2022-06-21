@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/bcel/classfile/Constant.java,0,20
+src/java/org/apache/bcel/classfile/Field.java,0,49
+src/java/org/apache/bcel/classfile/JavaClass.java,0,53
+src/java/org/apache/bcel/classfile/Method.java,0,59
+src/java/org/apache/bcel/generic/BranchHandle.java,0,102
+src/java/org/apache/bcel/generic/ClassGen.java,0,109
+src/java/org/apache/bcel/generic/FieldGen.java,0,162
+src/java/org/apache/bcel/generic/MethodGen.java,0,270

@@ -1,0 +1,6 @@
+relName,bug,index
+src/java/org/apache/commons/io/input/ClassLoaderObjectInputStream.java,1,58
+src/java/org/apache/commons/io/input/ReaderInputStream.java,0,67
+src/java/org/apache/commons/io/input/Tailer.java,0,70
+src/java/org/apache/commons/io/output/TeeOutputStream.java,0,96
+src/java/org/apache/commons/io/output/WriterOutputStream.java,0,98

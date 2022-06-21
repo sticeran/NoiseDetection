@@ -1,0 +1,5 @@
+relName,bug,index
+src/java/org/apache/commons/net/imap/IMAPClient.java,0,63
+src/java/org/apache/commons/net/telnet/TelnetClient.java,1,125
+src/java/org/apache/commons/net/telnet/TelnetInputStream.java,1,128
+src/java/org/apache/commons/net/util/SubnetUtils.java,1,153

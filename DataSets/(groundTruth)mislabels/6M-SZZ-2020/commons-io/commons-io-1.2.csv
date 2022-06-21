@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/commons/io/EndianUtils.java,0,1
+src/java/org/apache/commons/io/FileUtils.java,0,4
+src/java/org/apache/commons/io/FilenameUtils.java,0,5
+src/java/org/apache/commons/io/HexDump.java,0,6
+src/java/org/apache/commons/io/input/SwappedDataInputStream.java,0,31
+src/java/org/apache/commons/io/output/LockableFileWriter.java,0,36
+src/java/org/apache/commons/io/output/TeeOutputStream.java,0,40

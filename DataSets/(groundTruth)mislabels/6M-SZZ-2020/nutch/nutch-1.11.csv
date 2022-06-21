@@ -1,0 +1,17 @@
+relName,bug,index
+src/java/org/apache/nutch/fetcher/FetcherOutputFormat.java,0,36
+src/java/org/apache/nutch/indexer/NutchIndexAction.java,1,51
+src/plugin/index-metadata/src/java/org/apache/nutch/indexer/metadata/MetadataIndexer.java,0,59
+src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrConstants.java,1,72
+src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrIndexWriter.java,1,73
+src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrUtils.java,1,75
+src/plugin/urlnormalizer-basic/src/java/org/apache/nutch/net/urlnormalizer/basic/BasicURLNormalizer.java,0,97
+src/java/org/apache/nutch/parse/ParseOutputFormat.java,0,111
+src/java/org/apache/nutch/parse/ParseSegment.java,1,115
+src/plugin/headings/src/java/org/apache/nutch/parse/headings/HeadingsParseFilter.java,0,124
+src/plugin/parse-html/src/java/org/apache/nutch/parse/html/HtmlParser.java,1,127
+src/plugin/parse-tika/src/java/org/apache/nutch/parse/tika/TikaParser.java,0,136
+src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Ftp.java,0,167
+src/java/org/apache/nutch/tools/FileDumper.java,1,273
+src/plugin/urlfilter-domain/src/java/org/apache/nutch/urlfilter/domain/DomainURLFilter.java,1,284
+src/plugin/urlfilter-suffix/src/java/org/apache/nutch/urlfilter/suffix/SuffixURLFilter.java,1,288

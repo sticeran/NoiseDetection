@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/commons/jexl/Interpreter.java,1,12
+src/java/org/apache/commons/jexl/JexlException.java,1,16
+src/java/org/apache/commons/jexl/internal/BooleanGetExecutor.java,0,25
+src/java/org/apache/commons/jexl/internal/DuckGetExecutor.java,0,26
+src/java/org/apache/commons/jexl/internal/DuckSetExecutor.java,0,27
+src/java/org/apache/commons/jexl/internal/MapGetExecutor.java,0,32
+src/java/org/apache/commons/jexl/internal/MapSetExecutor.java,0,33
+src/java/org/apache/commons/jexl/parser/JexlNode.java,1,46

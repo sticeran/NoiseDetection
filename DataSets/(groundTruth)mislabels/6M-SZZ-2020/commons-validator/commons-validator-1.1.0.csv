@@ -1,0 +1,4 @@
+relName,bug,index
+src/share/org/apache/commons/validator/GenericTypeValidator.java,0,8
+src/share/org/apache/commons/validator/ValidatorResources.java,0,15
+src/share/org/apache/commons/validator/util/Flags.java,0,21

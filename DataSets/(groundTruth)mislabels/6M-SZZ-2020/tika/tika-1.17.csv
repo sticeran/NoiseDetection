@@ -1,0 +1,13 @@
+relName,bug,index
+tika-app/src/main/java/org/apache/tika/cli/BatchCommandLineBuilder.java,1,53
+tika-app/src/main/java/org/apache/tika/cli/TikaCLI.java,1,54
+tika-core/src/main/java/org/apache/tika/mime/MediaTypeRegistry.java,0,257
+tika-core/src/main/java/org/apache/tika/mime/MimeTypes.java,0,260
+tika-parsers/src/main/java/org/apache/tika/parser/mail/MailContentHandler.java,1,388
+tika-parsers/src/main/java/org/apache/tika/parser/mail/RFC822Parser.java,1,390
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/OfficeParserConfig.java,1,409
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/ooxml/XSSFBExcelExtractorDecorator.java,1,433
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/ooxml/XSSFExcelExtractorDecorator.java,1,434
+tika-parsers/src/main/java/org/apache/tika/parser/ocr/TesseractOCRConfig.java,1,480
+tika-parsers/src/main/java/org/apache/tika/parser/odf/OpenDocumentParser.java,0,485
+tika-core/src/main/java/org/apache/tika/sax/SafeContentHandler.java,1,572

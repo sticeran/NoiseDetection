@@ -1,0 +1,7 @@
+relName,bug,index
+src/java/org/apache/commons/jexl/JexlArithmetic.java,0,13
+src/java/org/apache/commons/jexl/internal/BooleanGetExecutor.java,0,29
+src/java/org/apache/commons/jexl/internal/DuckGetExecutor.java,0,30
+src/java/org/apache/commons/jexl/internal/DuckSetExecutor.java,0,31
+src/java/org/apache/commons/jexl/internal/MapGetExecutor.java,0,36
+src/java/org/apache/commons/jexl/internal/MapSetExecutor.java,0,37

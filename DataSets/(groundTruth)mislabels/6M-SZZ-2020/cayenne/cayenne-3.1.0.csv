@@ -1,0 +1,15 @@
+relName,bug,index
+framework/cayenne-di-unpublished/src/main/java/org/apache/cayenne/CayenneRuntimeException.java,0,9
+framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/ClientServerChannelQueryAction.java,0,39
+framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/DataContext.java,0,40
+framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/DataDomainQueryAction.java,0,54
+framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/HierarchicalObjectResolver.java,0,73
+framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/ObjectResolver.java,0,84
+framework/cayenne-jdk1.5-unpublished/src/main/java/org/apache/cayenne/access/trans/SelectTranslator.java,1,195
+framework/cayenne-tools/src/main/java/org/apache/cayenne/gen/ClientClassGenerationAction.java,0,684
+modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/ProjectTreeView.java,0,867
+modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/action/DefaultActionManager.java,0,900
+modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/dialog/db/MergerTokenSelectorController.java,0,993
+modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/dialog/objentity/ObjRelationshipInfo.java,0,1008
+modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/editor/SelectQueryMainTab.java,0,1085
+modeler/cayenne-modeler/src/main/java/org/apache/cayenne/modeler/editor/dbentity/DbEntityTab.java,0,1108

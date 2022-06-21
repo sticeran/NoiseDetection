@@ -1,0 +1,10 @@
+relName,bug,index
+src/main/java/org/apache/commons/scxml/SCXMLHelper.java,0,10
+src/main/java/org/apache/commons/scxml/SCXMLSemantics.java,0,12
+src/main/java/org/apache/commons/scxml/env/SimpleScheduler.java,0,24
+src/main/java/org/apache/commons/scxml/io/SCXMLDigester.java,1,39
+src/main/java/org/apache/commons/scxml/io/SCXMLParser.java,1,40
+src/main/java/org/apache/commons/scxml/io/SCXMLSerializer.java,1,41
+src/main/java/org/apache/commons/scxml/model/Assign.java,1,43
+src/main/java/org/apache/commons/scxml/model/If.java,0,57
+src/main/java/org/apache/commons/scxml/semantics/SCXMLSemanticsImpl.java,0,76

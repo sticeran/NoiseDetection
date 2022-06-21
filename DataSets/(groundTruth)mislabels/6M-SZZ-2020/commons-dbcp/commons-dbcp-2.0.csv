@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/commons/dbcp/AbandonedTrace.java,0,0
+src/java/org/apache/commons/dbcp/DelegatingConnection.java,0,8
+src/java/org/apache/commons/dbcp/datasources/CPDSConnectionFactory.java,0,30
+src/java/org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory.java,0,33
+src/java/org/apache/commons/dbcp/managed/ManagedConnection.java,0,45
+src/java/org/apache/commons/dbcp/managed/PoolableManagedConnectionFactory.java,0,48
+src/java/org/apache/commons/dbcp/managed/TransactionContext.java,0,49

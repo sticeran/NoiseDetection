@@ -1,0 +1,9 @@
+relName,bug,index
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/config/ConfigResolverContext.java,1,25
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/config/ConfigurationExtension.java,1,131
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/config/EnvironmentPropertyConfigSourceProvider.java,1,137
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/future/ThreadPoolManager.java,1,162
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/message/MessageBundleInvocationHandler.java,0,183
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/metadata/builder/AnnotatedConstructorImpl.java,0,276
+deltaspike/modules/data/impl/src/main/java/org/apache/deltaspike/data/impl/builder/part/OrderByQueryPart.java,0,346
+deltaspike/modules/jpa/impl/src/main/java/org/apache/deltaspike/jpa/impl/entitymanager/PersistenceConfigurationProviderImpl.java,1,479

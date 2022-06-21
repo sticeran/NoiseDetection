@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/commons/beanutils/BeanUtilsBean.java,0,10
+src/java/org/apache/commons/beanutils/JDBCDynaClass.java,0,24
+src/java/org/apache/commons/beanutils/LazyDynaList.java,0,27
+src/java/org/apache/commons/beanutils/MappedPropertyDescriptor.java,0,29
+src/java/org/apache/commons/beanutils/MethodUtils.java,0,30
+src/java/org/apache/commons/beanutils/PropertyUtilsBean.java,0,34
+src/java/org/apache/commons/beanutils/converters/AbstractConverter.java,0,42
+src/java/org/apache/commons/beanutils/locale/converters/FloatLocaleConverter.java,0,89

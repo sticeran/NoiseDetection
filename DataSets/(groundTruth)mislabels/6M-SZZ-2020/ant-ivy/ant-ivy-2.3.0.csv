@@ -1,0 +1,13 @@
+relName,bug,index
+src/java/org/apache/ivy/core/cache/DefaultRepositoryCacheManager.java,0,59
+src/java/org/apache/ivy/core/cache/DefaultResolutionCacheManager.java,0,60
+src/java/org/apache/ivy/core/resolve/ResolveEngine.java,0,153
+src/java/org/apache/ivy/core/settings/IvySettings.java,0,171
+src/java/org/apache/ivy/osgi/core/ManifestHeaderValue.java,0,195
+src/java/org/apache/ivy/plugins/lock/FileBasedLockStrategy.java,0,279
+src/java/org/apache/ivy/plugins/parser/m2/PomModuleDescriptorParser.java,0,306
+src/java/org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater.java,0,312
+src/java/org/apache/ivy/plugins/resolver/AbstractResolver.java,0,350
+src/java/org/apache/ivy/plugins/resolver/BasicResolver.java,0,352
+src/java/org/apache/ivy/plugins/version/LatestVersionMatcher.java,0,388
+src/java/org/apache/ivy/util/url/HttpClientHandler.java,1,444

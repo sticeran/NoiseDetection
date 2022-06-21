@@ -1,0 +1,6 @@
+relName,bug,index
+parquet-hadoop/src/main/java/parquet/format/converter/ParquetMetadataConverter.java,0,87
+parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java,0,93
+parquet-hadoop/src/main/java/parquet/hadoop/ParquetFileWriter.java,0,96
+parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputFormat.java,0,97
+parquet-hadoop/src/main/java/parquet/hadoop/ParquetReader.java,0,101

@@ -1,0 +1,9 @@
+relName,bug,index
+src/org/apache/xml/security/c14n/Canonicalizer.java,1,66
+src/org/apache/xml/security/c14n/helper/AttrCompare.java,1,69
+src/org/apache/xml/security/c14n/implementations/Canonicalizer11.java,1,71
+src/org/apache/xml/security/c14n/implementations/Canonicalizer20010315.java,1,74
+src/org/apache/xml/security/c14n/implementations/Canonicalizer20010315Excl.java,1,75
+src/org/apache/xml/security/utils/ElementProxy.java,1,190
+src/org/jcp/xml/dsig/internal/dom/DOMXMLObject.java,1,249
+src/org/jcp/xml/dsig/internal/dom/DOMXMLSignatureFactory.java,1,251

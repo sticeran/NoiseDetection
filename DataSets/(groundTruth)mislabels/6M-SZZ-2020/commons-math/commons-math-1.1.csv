@@ -1,0 +1,8 @@
+relName,bug,index
+src/main/java/org/apache/commons/math/analysis/UnivariateRealSolverUtils.java,0,18
+src/main/java/org/apache/commons/math/complex/ComplexFormat.java,0,20
+src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java,0,45
+src/main/java/org/apache/commons/math/random/RandomDataImpl.java,0,68
+src/main/java/org/apache/commons/math/random/ValueServer.java,0,70
+src/main/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java,0,105
+src/main/java/org/apache/commons/math/util/MathUtils.java,0,115

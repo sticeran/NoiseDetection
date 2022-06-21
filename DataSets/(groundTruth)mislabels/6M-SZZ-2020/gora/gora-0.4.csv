@@ -1,0 +1,14 @@
+relName,bug,index
+gora-accumulo/src/main/java/org/apache/gora/accumulo/encoders/BinaryEncoder.java,0,1
+gora-cassandra/src/main/java/org/apache/gora/cassandra/query/CassandraResult.java,1,19
+gora-cassandra/src/main/java/org/apache/gora/cassandra/query/CassandraSubColumn.java,0,22
+gora-cassandra/src/main/java/org/apache/gora/cassandra/serializers/GoraSerializerTypeInferer.java,0,26
+gora-core/src/main/java/org/apache/gora/mapreduce/GoraRecordWriter.java,1,70
+gora-core/src/main/java/org/apache/gora/mapreduce/PersistentDeserializer.java,0,73
+gora-core/src/main/java/org/apache/gora/memory/store/MemStore.java,1,78
+gora-core/src/main/java/org/apache/gora/persistency/impl/PersistentBase.java,0,92
+gora-core/src/main/java/org/apache/gora/store/DataStore.java,1,124
+gora-core/src/main/java/org/apache/gora/store/DataStoreFactory.java,1,125
+gora-core/src/main/java/org/apache/gora/store/ws/impl/WSDataStoreBase.java,1,131
+gora-core/src/main/java/org/apache/gora/util/AvroUtils.java,1,133
+gora-core/src/main/java/org/apache/gora/util/IOUtils.java,0,137

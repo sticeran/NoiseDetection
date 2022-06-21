@@ -1,0 +1,12 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java,1,5
+src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java,0,10
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java,0,62
+src/main/java/org/apache/commons/compress/archivers/zip/UnixStat.java,1,82
+src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java,0,91
+src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java,0,93
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java,0,102
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java,0,103
+src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java,0,110
+src/main/java/org/apache/commons/compress/compressors/lzma/LZMACompressorOutputStream.java,0,138
+src/main/java/org/apache/commons/compress/utils/BitInputStream.java,1,158

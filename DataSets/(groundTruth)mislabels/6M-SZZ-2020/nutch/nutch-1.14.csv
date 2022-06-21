@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/nutch/crawl/AbstractFetchSchedule.java,0,4
+src/java/org/apache/nutch/crawl/Injector.java,0,17
+src/java/org/apache/nutch/fetcher/FetcherOutputFormat.java,0,39
+src/plugin/mimetype-filter/src/java/org/apache/nutch/indexer/filter/MimeTypeIndexingFilter.java,1,66
+src/plugin/indexer-elastic-rest/src/java/org/apache/nutch/indexwriter/elasticrest/ElasticRestIndexWriter.java,1,86
+src/java/org/apache/nutch/parse/ParseOutputFormat.java,0,135
+src/plugin/protocol-http/src/java/org/apache/nutch/protocol/http/HttpResponse.java,0,209
+src/java/org/apache/nutch/util/AbstractChecker.java,1,326

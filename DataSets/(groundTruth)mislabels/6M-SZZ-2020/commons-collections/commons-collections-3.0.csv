@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/commons/collections/ExtendedProperties.java,0,22
+src/java/org/apache/commons/collections/FastTreeMap.java,0,27
+src/java/org/apache/commons/collections/bidimap/DualTreeBidiMap.java,0,81
+src/java/org/apache/commons/collections/keyvalue/MultiKey.java,0,190
+src/java/org/apache/commons/collections/list/SetUniqueList.java,0,200
+src/java/org/apache/commons/collections/map/CaseInsensitiveMap.java,0,210
+src/java/org/apache/commons/collections/map/Flat3Map.java,0,214
+src/java/org/apache/commons/collections/map/StaticBucketMap.java,0,225

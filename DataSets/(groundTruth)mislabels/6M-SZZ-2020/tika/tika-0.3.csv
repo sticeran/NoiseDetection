@@ -1,0 +1,13 @@
+relName,bug,index
+tika-core/src/main/java/org/apache/tika/config/TikaConfig.java,1,1
+tika-core/src/main/java/org/apache/tika/mime/MediaType.java,0,24
+tika-core/src/main/java/org/apache/tika/parser/AutoDetectParser.java,1,34
+tika-parsers/src/main/java/org/apache/tika/parser/html/XHTMLDowngradeHandler.java,0,48
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/OutlookExtractor.java,0,56
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/ooxml/OOXMLParser.java,1,62
+tika-parsers/src/main/java/org/apache/tika/parser/microsoft/ooxml/XWPFWordExtractorDecorator.java,0,66
+tika-parsers/src/main/java/org/apache/tika/parser/pdf/PDF2XHTML.java,0,72
+tika-parsers/src/main/java/org/apache/tika/parser/txt/TXTParser.java,1,88
+tika-parsers/src/main/java/org/apache/tika/parser/xml/XMLParser.java,1,91
+tika-core/src/main/java/org/apache/tika/sax/xpath/MatchingContentHandler.java,0,106
+src/main/java/org/apache/tika/utils/Utils.java,1,116

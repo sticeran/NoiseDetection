@@ -1,0 +1,14 @@
+relName,bug,index
+src/java/org/apache/commons/lang/enum/Enum.java,0,10
+src/java/org/apache/commons/lang/NumberUtils.java,0,18
+src/java/org/apache/commons/lang/ObjectUtils.java,0,19
+src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java,0,34
+src/java/org/apache/commons/lang/builder/ToStringStyle.java,0,37
+src/java/org/apache/commons/lang/enums/Enum.java,0,38
+src/java/org/apache/commons/lang/math/JVMRandom.java,0,51
+src/java/org/apache/commons/lang/math/NumberUtils.java,0,54
+src/java/org/apache/commons/lang/time/DateFormatUtils.java,0,69
+src/java/org/apache/commons/lang/time/DateUtils.java,0,70
+src/java/org/apache/commons/lang/time/DurationFormatUtils.java,0,71
+src/java/org/apache/commons/lang/time/FastDateFormat.java,0,72
+src/java/org/apache/commons/lang/time/StopWatch.java,0,73

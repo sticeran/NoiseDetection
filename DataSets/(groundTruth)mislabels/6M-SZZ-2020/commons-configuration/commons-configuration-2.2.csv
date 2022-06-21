@@ -1,0 +1,6 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/AbstractYAMLBasedConfiguration.java,1,2
+src/java/org/apache/commons/configuration/builder/DefaultReloadingDetectorFactory.java,0,70
+src/java/org/apache/commons/configuration/builder/combined/CombinedConfigurationBuilder.java,0,92
+src/java/org/apache/commons/configuration/builder/combined/ReloadingCombinedConfigurationBuilder.java,0,103
+src/java/org/apache/commons/configuration/reloading/CombinedReloadingController.java,0,171

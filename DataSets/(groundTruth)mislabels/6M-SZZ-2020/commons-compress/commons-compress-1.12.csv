@@ -1,0 +1,13 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java,1,42
+src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java,1,48
+src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java,1,51
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java,1,55
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java,0,60
+src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java,0,89
+src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java,0,91
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java,0,96
+src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java,0,107
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java,0,120
+src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.java,0,142
+src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorInputStream.java,0,145

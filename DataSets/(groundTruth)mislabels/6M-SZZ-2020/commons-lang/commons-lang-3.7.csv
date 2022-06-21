@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/commons/lang/EnumUtils.java,1,14
+src/java/org/apache/commons/lang/JavaVersion.java,1,15
+src/java/org/apache/commons/lang/SystemUtils.java,1,26
+src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java,1,44
+src/java/org/apache/commons/lang/exception/ExceptionUtils.java,1,76
+src/java/org/apache/commons/lang/math/NumberUtils.java,1,79
+src/java/org/apache/commons/lang/text/WordUtils.java,0,106

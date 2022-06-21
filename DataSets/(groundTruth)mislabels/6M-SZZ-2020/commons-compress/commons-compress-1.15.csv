@@ -1,0 +1,12 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java,0,12
+src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java,1,44
+src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZMethod.java,1,52
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java,0,58
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java,0,59
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java,1,60
+src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.java,1,76
+src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java,1,87
+src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java,1,110
+src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java,1,122
+src/main/java/org/apache/commons/compress/utils/BitInputStream.java,1,175

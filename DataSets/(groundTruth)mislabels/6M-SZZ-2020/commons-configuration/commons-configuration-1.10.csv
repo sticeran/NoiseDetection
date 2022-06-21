@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/CompositeConfiguration.java,0,6
+src/java/org/apache/commons/configuration/ConfigurationUtils.java,0,16
+src/java/org/apache/commons/configuration/MapConfiguration.java,0,36
+src/java/org/apache/commons/configuration/PropertiesConfiguration.java,0,40
+src/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java,0,41
+src/java/org/apache/commons/configuration/interpol/ExprLookup.java,0,65
+src/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java,0,67

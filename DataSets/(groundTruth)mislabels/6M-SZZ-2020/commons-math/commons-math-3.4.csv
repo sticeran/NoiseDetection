@@ -1,0 +1,14 @@
+relName,bug,index
+src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolatingFunction.java,1,103
+src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolator.java,1,104
+src/main/java/org/apache/commons/math/analysis/polynomials/PolynomialsUtils.java,0,122
+src/main/java/org/apache/commons/math/distribution/NormalDistribution.java,0,190
+src/main/java/org/apache/commons/math/geometry/partitioning/BSPTree.java,1,353
+src/main/java/org/apache/commons/math/linear/QRDecomposition.java,1,432
+src/main/java/org/apache/commons/math/ode/UnknownParameterException.java,1,509
+src/main/java/org/apache/commons/math/ode/events/EventState.java,1,512
+src/main/java/org/apache/commons/math/optim/linear/SolutionCallback.java,1,579
+src/main/java/org/apache/commons/math/random/EmpiricalDistribution.java,1,697
+src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java,1,757
+src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java,1,762
+src/main/java/org/apache/commons/math/stat/inference/KolmogorovSmirnovTest.java,0,783

@@ -1,0 +1,7 @@
+relName,bug,index
+src/java/org/apache/jcs/auxiliary/disk/AbstractDiskCache.java,1,27
+src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheManager.java,0,40
+src/java/org/apache/jcs/auxiliary/lateral/LateralCacheNoWait.java,1,59
+src/java/org/apache/jcs/auxiliary/remote/RemoteCacheNoWait.java,1,115
+src/java/org/apache/jcs/engine/behavior/ICacheEventQueue.java,1,160
+src/java/org/apache/jcs/engine/control/CompositeCache.java,1,171

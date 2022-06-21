@@ -1,0 +1,11 @@
+relName,bug,index
+src/java/org/apache/commons/dbcp/AbandonedTrace.java,0,2
+src/java/org/apache/commons/dbcp/BasicDataSource.java,1,3
+src/java/org/apache/commons/dbcp/DelegatingConnection.java,0,9
+src/java/org/apache/commons/dbcp/PoolableConnectionFactory.java,1,16
+src/java/org/apache/commons/dbcp/PoolingConnection.java,0,18
+src/java/org/apache/commons/dbcp/PoolingDataSource.java,0,19
+src/java/org/apache/commons/dbcp/cpdsadapter/DriverAdapterCPDS.java,0,22
+src/java/org/apache/commons/dbcp/datasources/InstanceKeyDataSource.java,0,26
+src/java/org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory.java,0,27
+src/java/org/apache/commons/dbcp/datasources/SharedPoolDataSource.java,0,32

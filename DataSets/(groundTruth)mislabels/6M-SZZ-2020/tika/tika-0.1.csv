@@ -1,0 +1,6 @@
+relName,bug,index
+tika-core/src/main/java/org/apache/tika/mime/MimeType.java,0,16
+tika-core/src/main/java/org/apache/tika/mime/MimeTypes.java,0,18
+tika-parsers/src/main/java/org/apache/tika/parser/pdf/PDF2XHTML.java,0,46
+tika-parsers/src/main/java/org/apache/tika/parser/pdf/PDFParser.java,0,47
+tika-core/src/main/java/org/apache/tika/sax/XHTMLContentHandler.java,0,55

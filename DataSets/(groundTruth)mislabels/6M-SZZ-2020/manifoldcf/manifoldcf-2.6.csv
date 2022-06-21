@@ -1,0 +1,12 @@
+relName,bug,index
+connectors/elasticsearch/connector/src/main/java/org/apache/manifoldcf/agents/output/elasticsearch/ElasticSearchIndex.java,0,196
+connectors/documentum/connector/src/main/java/org/apache/manifoldcf/authorities/authorities/DCTM/AuthorityConnector.java,0,304
+connectors/documentum/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/DCTM/DCTM.java,0,635
+connectors/confluence/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/confluence/ConfluenceRepositoryConnector.java,0,663
+connectors/googledrive/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/googledrive/GoogleDriveRepositoryConnector.java,0,705
+connectors/jdbc/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/jdbc/JDBCConnector.java,0,714
+connectors/jira/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/jira/JiraSession.java,0,722
+connectors/jcifs/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/sharedrive/SharedDriveConnector.java,0,746
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/HopDeleteDeps.java,0,862
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/JobManager.java,0,866
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/JobQueue.java,0,867

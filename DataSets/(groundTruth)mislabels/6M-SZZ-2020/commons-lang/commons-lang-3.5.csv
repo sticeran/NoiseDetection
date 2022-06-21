@@ -1,0 +1,12 @@
+relName,bug,index
+src/java/org/apache/commons/lang/ArrayUtils.java,1,1
+src/java/org/apache/commons/lang/BooleanUtils.java,1,3
+src/java/org/apache/commons/lang/StringUtils.java,1,24
+src/java/org/apache/commons/lang/builder/EqualsBuilder.java,0,34
+src/java/org/apache/commons/lang/builder/MultilineRecursiveToStringStyle.java,0,39
+src/java/org/apache/commons/lang/builder/ToStringStyle.java,0,45
+src/java/org/apache/commons/lang/concurrent/EventCountCircuitBreaker.java,0,59
+src/java/org/apache/commons/lang/concurrent/LazyInitializer.java,1,60
+src/java/org/apache/commons/lang/reflect/MemberUtils.java,0,87
+src/java/org/apache/commons/lang/text/StrBuilder.java,1,96
+src/java/org/apache/commons/lang/time/FastDateParser.java,1,121

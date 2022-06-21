@@ -1,0 +1,11 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/tar/TarConstants.java,1,58
+src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java,0,83
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java,0,91
+src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java,0,99
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java,0,112
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java,0,113
+src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.java,0,119
+src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorOutputStream.java,0,120
+src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.java,0,136
+src/main/java/org/apache/commons/compress/utils/BitInputStream.java,0,148

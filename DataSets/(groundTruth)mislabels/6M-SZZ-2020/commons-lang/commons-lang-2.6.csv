@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/commons/lang/LocaleUtils.java,0,15
+src/java/org/apache/commons/lang/RandomStringUtils.java,0,21
+src/java/org/apache/commons/lang/builder/ReflectionToStringBuilder.java,0,35
+src/java/org/apache/commons/lang/math/NumberUtils.java,0,57
+src/java/org/apache/commons/lang/text/ExtendedMessageFormat.java,0,74
+src/java/org/apache/commons/lang/time/DateFormatUtils.java,0,81
+src/java/org/apache/commons/lang/time/FastDateFormat.java,1,84

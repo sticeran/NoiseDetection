@@ -1,0 +1,12 @@
+relName,bug,index
+src/java/org/apache/jcs/auxiliary/disk/block/BlockDisk.java,0,30
+src/java/org/apache/jcs/auxiliary/disk/block/BlockDiskCache.java,0,31
+src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCache.java,0,38
+src/java/org/apache/jcs/auxiliary/disk/indexed/IndexedDiskCacheManager.java,0,41
+src/java/org/apache/jcs/auxiliary/lateral/socket/tcp/LateralTCPSender.java,0,89
+src/java/org/apache/jcs/auxiliary/lateral/socket/tcp/discovery/UDPDiscoveryService.java,0,98
+src/java/org/apache/jcs/auxiliary/remote/RemoteCacheListener.java,0,118
+src/java/org/apache/jcs/auxiliary/remote/server/RemoteCacheServer.java,0,135
+src/java/org/apache/jcs/auxiliary/remote/server/RemoteCacheStartupServlet.java,0,139
+src/java/org/apache/jcs/utils/access/JCSWorker.java,0,204
+src/java/org/apache/jcs/utils/net/HostNameUtil.java,0,207

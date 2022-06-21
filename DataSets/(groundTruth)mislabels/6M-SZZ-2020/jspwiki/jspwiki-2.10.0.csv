@@ -1,0 +1,6 @@
+relName,bug,index
+src/com/ecyrd/jspwiki/Release.java,0,7
+src/com/ecyrd/jspwiki/auth/acl/DefaultAclManager.java,0,56
+src/com/ecyrd/jspwiki/auth/user/JDBCUserDatabase.java,1,88
+src/com/ecyrd/jspwiki/parser/PluginContent.java,1,142
+src/com/ecyrd/jspwiki/ui/Installer.java,0,288

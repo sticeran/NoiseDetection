@@ -1,0 +1,3 @@
+relName,bug,index
+core/src/main/java/org/apache/commons/vfs/provider/ftp/FtpFileObject.java,0,132
+core/src/main/java/org/apache/commons/vfs/provider/sftp/SftpFileSystem.java,0,198

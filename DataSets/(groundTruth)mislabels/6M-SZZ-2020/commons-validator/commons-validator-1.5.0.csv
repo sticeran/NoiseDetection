@@ -1,0 +1,3 @@
+relName,bug,index
+src/share/org/apache/commons/validator/Field.java,0,4
+src/share/org/apache/commons/validator/routines/DomainValidator.java,1,31

@@ -1,0 +1,12 @@
+relName,bug,index
+src/java/org/apache/nutch/crawl/CrawlDbReducer.java,0,9
+src/java/org/apache/nutch/indexer/IndexerMapReduce.java,0,34
+src/java/org/apache/nutch/parse/ParseOutputFormat.java,0,95
+src/plugin/headings/src/java/org/apache/nutch/parse/headings/HeadingsParseFilter.java,0,108
+src/plugin/parse-html/src/java/org/apache/nutch/parse/html/HtmlParser.java,0,111
+src/plugin/parse-tika/src/java/org/apache/nutch/parse/tika/TikaParser.java,0,118
+src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Ftp.java,0,147
+src/plugin/protocol-http/src/java/org/apache/nutch/protocol/http/HttpResponse.java,0,158
+src/plugin/lib-http/src/java/org/apache/nutch/protocol/http/api/HttpRobotRulesParser.java,0,162
+src/plugin/protocol-httpclient/src/java/org/apache/nutch/protocol/httpclient/Http.java,0,165
+src/java/org/apache/nutch/segment/SegmentReader.java,0,194

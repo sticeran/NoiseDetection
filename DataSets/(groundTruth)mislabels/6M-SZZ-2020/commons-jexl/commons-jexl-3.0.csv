@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/commons/jexl/JexlArithmetic.java,1,0
+src/java/org/apache/commons/jexl/JexlBuilder.java,1,1
+src/java/org/apache/commons/jexl/JexlEngine.java,1,3
+src/java/org/apache/commons/jexl/internal/Closure.java,1,16
+src/java/org/apache/commons/jexl/internal/Engine.java,1,18
+src/java/org/apache/commons/jexl/internal/Interpreter.java,1,19
+src/java/org/apache/commons/jexl/internal/Script.java,1,23
+src/java/org/apache/commons/jexl/internal/introspection/Uberspect.java,1,52

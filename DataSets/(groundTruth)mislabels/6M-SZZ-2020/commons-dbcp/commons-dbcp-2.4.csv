@@ -1,0 +1,13 @@
+relName,bug,index
+src/java/org/apache/commons/dbcp/DataSourceConnectionFactory.java,1,6
+src/java/org/apache/commons/dbcp/DelegatingConnection.java,1,8
+src/java/org/apache/commons/dbcp/DelegatingDatabaseMetaData.java,1,9
+src/java/org/apache/commons/dbcp/DelegatingResultSet.java,1,11
+src/java/org/apache/commons/dbcp/DelegatingStatement.java,1,12
+src/java/org/apache/commons/dbcp/DriverManagerConnectionFactory.java,1,14
+src/java/org/apache/commons/dbcp/PoolableConnectionFactory.java,1,21
+src/java/org/apache/commons/dbcp/Utils.java,1,28
+src/java/org/apache/commons/dbcp/cpdsadapter/DriverAdapterCPDS.java,1,30
+src/java/org/apache/commons/dbcp/cpdsadapter/PooledConnectionImpl.java,1,32
+src/java/org/apache/commons/dbcp/datasources/CPDSConnectionFactory.java,1,33
+src/java/org/apache/commons/dbcp/managed/ManagedConnection.java,0,48

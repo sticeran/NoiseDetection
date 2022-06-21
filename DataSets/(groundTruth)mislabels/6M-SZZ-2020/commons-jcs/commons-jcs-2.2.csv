@@ -1,0 +1,17 @@
+relName,bug,index
+src/java/org/apache/jcs/auxiliary/remote/http/client/AbstractHttpClient.java,1,124
+src/java/org/apache/jcs/auxiliary/remote/http/client/RemoteHttpCacheDispatcher.java,1,128
+src/java/org/apache/jcs/engine/control/CompositeCache.java,0,187
+src/java/org/apache/jcs/engine/control/CompositeCacheConfigurator.java,0,188
+src/java/org/apache/jcs/engine/control/CompositeCacheManager.java,1,189
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCache.java,0,229
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingManager.java,0,231
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CDIJCacheHelper.java,1,243
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheInvocationContextImpl.java,1,244
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheKeyInvocationContextImpl.java,1,247
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheMethodDetailsImpl.java,1,248
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CachePutInterceptor.java,1,249
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheRemoveAllInterceptor.java,1,250
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheRemoveInterceptor.java,1,251
+commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheResultInterceptor.java,1,254
+src/java/org/apache/jcs/utils/config/PropertySetter.java,1,289

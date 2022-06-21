@@ -1,0 +1,5 @@
+relName,bug,index
+eagle-core/eagle-query/eagle-query-base/src/main/java/org/apache/eagle/query/ListQueryCompiler.java,0,376
+eagle-core/eagle-query/eagle-service-base/src/main/java/org/apache/eagle/service/generic/MetadataResource.java,0,588
+eagle-core/eagle-query/eagle-storage-jdbc/src/main/java/org/apache/eagle/storage/jdbc/schema/JdbcEntityDefinitionManager.java,0,708
+eagle-core/eagle-query/eagle-storage-jdbc/src/main/java/org/apache/eagle/storage/jdbc/schema/JdbcEntitySchemaManager.java,0,709

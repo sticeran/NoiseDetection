@@ -1,0 +1,17 @@
+relName,bug,index
+src/java/org/apache/commons/net/ftp/FTP.java,0,23
+src/java/org/apache/commons/net/ftp/FTPSClient.java,0,36
+src/java/org/apache/commons/net/ftp/parser/DefaultFTPFileEntryParserFactory.java,0,43
+src/java/org/apache/commons/net/ftp/parser/MVSFTPEntryParser.java,0,49
+src/java/org/apache/commons/net/ftp/parser/NTFTPEntryParser.java,0,51
+src/java/org/apache/commons/net/imap/IMAPSClient.java,0,65
+src/java/org/apache/commons/net/io/Util.java,0,79
+src/java/org/apache/commons/net/nntp/Threader.java,0,96
+src/java/org/apache/commons/net/pop3/POP3SClient.java,0,109
+src/java/org/apache/commons/net/smtp/AuthenticatingSMTPClient.java,1,110
+src/java/org/apache/commons/net/telnet/Telnet.java,0,123
+src/java/org/apache/commons/net/telnet/TelnetClient.java,0,124
+src/java/org/apache/commons/net/telnet/TelnetInputStream.java,0,127
+src/java/org/apache/commons/net/telnet/TelnetOutputStream.java,0,131
+src/java/org/apache/commons/net/tftp/TFTPClient.java,0,136
+src/java/org/apache/commons/net/util/SubnetUtils.java,0,150

@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/commons/beanutils/BeanUtilsBean.java,0,10
+src/java/org/apache/commons/beanutils/JDBCDynaClass.java,0,21
+src/java/org/apache/commons/beanutils/MethodUtils.java,0,26
+src/java/org/apache/commons/beanutils/PropertyUtilsBean.java,0,30
+src/java/org/apache/commons/beanutils/locale/LocaleBeanUtilsBean.java,0,65
+src/java/org/apache/commons/beanutils/locale/LocaleConvertUtilsBean.java,0,67
+src/java/org/apache/commons/beanutils/locale/converters/FloatLocaleConverter.java,0,75

@@ -1,0 +1,15 @@
+relName,bug,index
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java,0,8
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java,0,9
+src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.java,0,10
+src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java,0,18
+src/main/java/org/apache/commons/compress/archivers/tar/TarConstants.java,0,20
+src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java,0,21
+src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java,0,24
+src/main/java/org/apache/commons/compress/archivers/zip/UnrecognizedExtraField.java,0,32
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java,0,33
+src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java,0,35
+src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java,0,39
+src/main/java/org/apache/commons/compress/changes/ChangeSet.java,0,44
+src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java,0,51
+src/main/java/org/apache/commons/compress/utils/IOUtils.java,0,60

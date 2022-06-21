@@ -1,0 +1,11 @@
+relName,bug,index
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/config/ConfigResolver.java,1,0
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/metadata/builder/AnnotatedConstructorImpl.java,0,21
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/metadata/builder/AnnotatedTypeBuilder.java,1,27
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/metadata/builder/AnnotatedTypeImpl.java,0,28
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/provider/BeanManagerProvider.java,1,33
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/provider/BeanProvider.java,1,34
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/exclude/ExcludeExtension.java,1,41
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/ClassUtils.java,1,49
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/ProjectStageProducer.java,1,52
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/Reflections.java,1,53

@@ -1,0 +1,10 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/CompositeConfiguration.java,0,6
+src/java/org/apache/commons/configuration/INIConfiguration.java,0,24
+src/java/org/apache/commons/configuration/PropertiesConfiguration.java,0,33
+src/java/org/apache/commons/configuration/PropertiesConfigurationLayout.java,0,34
+src/java/org/apache/commons/configuration/SubnodeConfiguration.java,0,36
+src/java/org/apache/commons/configuration/XMLConfiguration.java,0,39
+src/java/org/apache/commons/configuration/builder/DefaultReloadingDetectorFactory.java,0,66
+src/java/org/apache/commons/configuration/interpol/ConfigurationInterpolator.java,0,130
+src/java/org/apache/commons/configuration/interpol/ExprLookup.java,0,135

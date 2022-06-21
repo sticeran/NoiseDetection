@@ -1,0 +1,9 @@
+relName,bug,index
+src/java/org/apache/commons/lang/ClassUtils.java,1,12
+src/java/org/apache/commons/lang/ObjectUtils.java,1,18
+src/java/org/apache/commons/lang/StringUtils.java,1,25
+src/java/org/apache/commons/lang/builder/ToStringStyle.java,0,48
+src/java/org/apache/commons/lang/reflect/MemberUtils.java,0,92
+src/java/org/apache/commons/lang/text/WordUtils.java,0,106
+src/java/org/apache/commons/lang/time/DateFormatUtils.java,1,119
+src/java/org/apache/commons/lang/time/FastDateParser.java,1,125

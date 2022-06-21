@@ -1,0 +1,10 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/AbstractFileConfiguration.java,0,1
+src/java/org/apache/commons/configuration/CompositeConfiguration.java,0,4
+src/java/org/apache/commons/configuration/ConfigurationUtils.java,0,13
+src/java/org/apache/commons/configuration/DataConfiguration.java,0,16
+src/java/org/apache/commons/configuration/DatabaseConfiguration.java,0,17
+src/java/org/apache/commons/configuration/HierarchicalConfiguration.java,0,19
+src/java/org/apache/commons/configuration/JNDIConfiguration.java,0,23
+src/java/org/apache/commons/configuration/PropertyConverter.java,0,26
+src/java/org/apache/commons/configuration/XMLConfiguration.java,0,30

@@ -1,0 +1,17 @@
+relName,bug,index
+deltaspike/cdictrl/impl-owb/src/main/java/org/apache/deltaspike/cdise/owb/OpenWebBeansContainerControl.java,0,6
+deltaspike/cdictrl/tck/src/main/java/org/apache/deltaspike/cdise/tck/ContainerCtrlTckTest.java,0,9
+deltaspike/cdictrl/tck/src/main/java/org/apache/deltaspike/cdise/tck/beans/Car.java,0,10
+deltaspike/cdictrl/tck/src/main/java/org/apache/deltaspike/cdise/tck/beans/CarRepair.java,0,11
+deltaspike/cdictrl/impl-weld/src/main/java/org/apache/deltaspike/cdise/weld/WeldContainerControl.java,0,14
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/provider/BeanProvider.java,1,60
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/message/MessageBundleInvocationHandler.java,0,87
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/Annotateds.java,1,99
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/PropertyFileUtils.java,0,108
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/ReflectionUtils.java,1,109
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/bean/BeanBuilder.java,0,113
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/metadata/builder/AnnotatedConstructorImpl.java,0,121
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/metadata/builder/AnnotatedTypeImpl.java,0,128
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/metadata/builder/InjectableMethod.java,1,135
+deltaspike/modules/jpa/impl/src/main/java/org/apache/deltaspike/jpa/impl/transaction/ResourceLocalTransactionStrategy.java,0,145
+deltaspike/modules/security/impl/src/main/java/org/apache/deltaspike/security/impl/extension/Authorizer.java,1,168

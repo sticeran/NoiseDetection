@@ -1,0 +1,7 @@
+relName,bug,index
+src/com/ecyrd/jspwiki/auth/user/XMLUserDatabase.java,1,164
+src/com/ecyrd/jspwiki/filters/SpamFilter.java,1,259
+src/com/ecyrd/jspwiki/parser/JSPWikiMarkupParser.java,1,308
+src/com/ecyrd/jspwiki/plugin/InsertPage.java,0,342
+src/com/ecyrd/jspwiki/search/LuceneSearchProvider.java,0,446
+src/com/ecyrd/jspwiki/ui/InputValidator.java,1,606

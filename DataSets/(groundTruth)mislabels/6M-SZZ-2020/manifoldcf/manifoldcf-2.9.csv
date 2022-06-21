@@ -1,0 +1,8 @@
+relName,bug,index
+connectors/solr/connector/src/main/java/org/apache/manifoldcf/agents/output/solr/ModifiedHttpSolrClient.java,0,241
+connectors/documentum/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/DCTM/DCTM.java,0,648
+connectors/confluence/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/confluence/ConfluenceRepositoryConnector.java,0,676
+connectors/confluence/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/confluence/client/ConfluenceClient.java,0,678
+connectors/googledrive/connector/src/main/java/org/apache/manifoldcf/crawler/connectors/googledrive/GoogleDriveRepositoryConnector.java,0,718
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/HopDeleteDeps.java,0,884
+framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/jobs/JobManager.java,0,888

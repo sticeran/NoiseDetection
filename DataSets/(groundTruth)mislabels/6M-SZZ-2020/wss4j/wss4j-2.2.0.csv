@@ -1,0 +1,11 @@
+relName,bug,index
+ws-security-common/src/main/java/org/apache/wss4j/common/crypto/CryptoFactory.java,1,55
+ws-security-common/src/main/java/org/apache/wss4j/common/crypto/Merlin.java,1,59
+ws-security-common/src/main/java/org/apache/wss4j/common/util/KeyUtils.java,1,139
+ws-security-common/src/main/java/org/apache/wss4j/common/util/Loader.java,1,140
+ws-security-dom/src/main/java/org/apache/wss4j/dom/action/SAMLTokenSignedAction.java,1,159
+ws-security-dom/src/main/java/org/apache/wss4j/dom/action/SignatureAction.java,1,161
+ws-security-dom/src/main/java/org/apache/wss4j/dom/message/WSSecBase.java,1,178
+ws-security-dom/src/main/java/org/apache/wss4j/dom/message/WSSecSignature.java,1,187
+ws-security-dom/src/main/java/org/apache/wss4j/dom/str/SecurityTokenRefSTRParser.java,1,221
+ws-security-stax/src/main/java/org/apache/wss4j/stax/impl/processor/output/DerivedKeyTokenOutputProcessor.java,1,404

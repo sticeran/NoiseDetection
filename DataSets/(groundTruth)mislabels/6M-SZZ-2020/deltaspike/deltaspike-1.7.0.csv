@@ -1,0 +1,13 @@
+relName,bug,index
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/api/jmx/JmxManaged.java,1,68
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/jmx/DynamicMBeanWrapper.java,1,155
+deltaspike/core/impl/src/main/java/org/apache/deltaspike/core/impl/message/MessageBundleInvocationHandler.java,0,169
+deltaspike/core/api/src/main/java/org/apache/deltaspike/core/util/metadata/builder/AnnotatedConstructorImpl.java,0,261
+deltaspike/modules/data/api/src/main/java/org/apache/deltaspike/data/api/SingleResultType.java,1,297
+deltaspike/modules/data/impl/src/main/java/org/apache/deltaspike/data/impl/builder/part/OrderByQueryPart.java,0,331
+deltaspike/modules/data/impl/src/main/java/org/apache/deltaspike/data/impl/criteria/QueryCriteria.java,0,345
+deltaspike/modules/data/api/src/main/java/org/apache/deltaspike/data/spi/DelegateQueryHandler.java,1,453
+deltaspike/modules/jpa/impl/src/main/java/org/apache/deltaspike/jpa/impl/entitymanager/DefaultEntityManagerHolder.java,1,462
+deltaspike/modules/jsf/impl/src/main/java/org/apache/deltaspike/jsf/impl/listener/request/DeltaSpikeLifecycleWrapper.java,1,553
+deltaspike/modules/security/impl/src/main/java/org/apache/deltaspike/security/impl/authorization/SecuredAnnotationAuthorizer.java,0,649
+deltaspike/modules/test-control/api/src/main/java/org/apache/deltaspike/testcontrol/api/junit/CdiTestRunner.java,0,676

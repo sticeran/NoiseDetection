@@ -1,0 +1,11 @@
+relName,bug,index
+src/java/org/apache/nutch/crawl/Generator.java,1,14
+src/plugin/index-metadata/src/java/org/apache/nutch/indexer/metadata/MetadataIndexer.java,0,47
+src/plugin/indexer-solr/src/java/org/apache/nutch/indexwriter/solr/SolrIndexWriter.java,1,56
+src/plugin/headings/src/java/org/apache/nutch/parse/headings/HeadingsParseFilter.java,0,105
+src/plugin/parse-tika/src/java/org/apache/nutch/parse/tika/DOMBuilder.java,1,113
+src/java/org/apache/nutch/plugin/PluginManifestParser.java,1,128
+src/plugin/protocol-file/src/java/org/apache/nutch/protocol/file/File.java,1,140
+src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Ftp.java,0,145
+src/java/org/apache/nutch/segment/SegmentReader.java,0,192
+src/java/org/apache/nutch/util/URLUtil.java,1,227

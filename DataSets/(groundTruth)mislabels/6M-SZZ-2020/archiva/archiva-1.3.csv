@@ -1,0 +1,6 @@
+relName,bug,index
+archiva-modules/archiva-base/archiva-repository-layer/src/main/java/org/apache/maven/archiva/repository/scanner/RepositoryContentConsumers.java,0,308
+archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/DeleteArtifactAction.java,0,340
+archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/UploadAction.java,0,345
+archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/admin/connectors/proxy/AbstractProxyConnectorFormAction.java,0,351
+archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/admin/connectors/proxy/EditProxyConnectorAction.java,0,355

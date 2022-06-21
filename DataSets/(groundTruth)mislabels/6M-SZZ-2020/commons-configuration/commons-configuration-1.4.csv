@@ -1,0 +1,8 @@
+relName,bug,index
+src/java/org/apache/commons/configuration/CombinedConfiguration.java,0,5
+src/java/org/apache/commons/configuration/CompositeConfiguration.java,0,6
+src/java/org/apache/commons/configuration/DefaultConfigurationBuilder.java,1,21
+src/java/org/apache/commons/configuration/PropertyConverter.java,1,32
+src/java/org/apache/commons/configuration/interpol/ConstantLookup.java,0,52
+src/java/org/apache/commons/configuration/plist/XMLPropertyListConfiguration.java,0,61
+src/java/org/apache/commons/configuration/reloading/FileChangedReloadingStrategy.java,0,62

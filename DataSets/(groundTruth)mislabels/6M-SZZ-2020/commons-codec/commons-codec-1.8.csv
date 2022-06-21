@@ -1,0 +1,7 @@
+relName,bug,index
+src/java/org/apache/commons/codec/binary/StringUtils.java,0,22
+src/java/org/apache/commons/codec/language/DoubleMetaphone.java,0,35
+src/java/org/apache/commons/codec/language/Metaphone.java,1,37
+src/java/org/apache/commons/codec/language/Soundex.java,0,40
+src/java/org/apache/commons/codec/language/bm/Lang.java,0,43
+src/java/org/apache/commons/codec/language/bm/PhoneticEngine.java,0,46

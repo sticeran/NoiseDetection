@@ -1,0 +1,7 @@
+relName,bug,index
+src/java/org/apache/commons/io/filefilter/FileFilterUtils.java,0,32
+src/java/org/apache/commons/io/input/CountingInputStream.java,0,50
+src/java/org/apache/commons/io/input/SwappedDataInputStream.java,0,56
+src/java/org/apache/commons/io/output/CountingOutputStream.java,0,61
+src/java/org/apache/commons/io/output/LockableFileWriter.java,0,65
+src/java/org/apache/commons/io/output/TeeOutputStream.java,0,70

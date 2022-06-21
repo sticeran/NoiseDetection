@@ -1,0 +1,12 @@
+relName,bug,index
+parquet-avro/src/main/java/parquet/avro/AvroParquetWriter.java,1,9
+parquet-column/src/main/java/parquet/column/ParquetProperties.java,1,32
+parquet-column/src/main/java/parquet/column/values/deltastrings/DeltaByteArrayReader.java,0,70
+parquet-column/src/main/java/parquet/column/values/dictionary/DictionaryValuesReader.java,0,72
+parquet-hadoop/src/main/java/parquet/format/converter/ParquetMetadataConverter.java,0,98
+parquet-hadoop/src/main/java/parquet/hadoop/InternalParquetRecordReader.java,0,104
+parquet-hadoop/src/main/java/parquet/hadoop/ParquetFileWriter.java,0,107
+parquet-hadoop/src/main/java/parquet/hadoop/ParquetInputFormat.java,0,108
+parquet-hadoop/src/main/java/parquet/hadoop/ParquetReader.java,0,112
+parquet-hive/parquet-hive-storage-handler/src/main/java/parquet/hive/serde/primitive/ParquetPrimitiveInspectorFactory.java,1,179
+parquet-thrift/src/main/java/parquet/thrift/ThriftParquetWriter.java,1,254
